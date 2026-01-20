@@ -1,7 +1,7 @@
 # Road_Accident_Dashboard_Excel
 
 
-
+Dashboard Picture.jpeg
 
 Hello everybody 
 My third project entailed using Microsoft Excel to create an interactive dashboard that analyzed and summarized data for a road accident, which was just recently finished.
